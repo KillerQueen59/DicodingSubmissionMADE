@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Katalogue</string>
+    <string name="fav">Favourite List</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="more_info">More Info</string>
+    <string name="description">Description</string>
+    <string name="change_language">Change Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite">Favourite</string>
+    <string name="clearbutton">Clearbutton</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">kosong</string>
+    <string name="daily_title">Coba cek film terbaru kami</string>
+    <string name="daily_text">ada yang baru</string>
+    <string name="release_today_msg">Film baru saja tayang</string>
+    <string name="pref_title_notifications">Notifikasi</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="summary_daily_reminder">Pengingat Harian akan diingatkan jam 7</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="summary_release_reminder">Pengingat Yang Akan datang akan diingatkan jam 8</string>
+    <string name="release_reminder">Pengingat Yang Akan Datang</string>
+    <string name="key_lang">key_lang</string>
+    <string name="search_button_word">search</string>
+</resources>
